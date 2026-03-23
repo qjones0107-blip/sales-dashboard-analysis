@@ -41,18 +41,6 @@ The dataset includes:
 ### Category Breakdown
 ![Category Breakdown](category_breakdown.png)
 
-### Revenue Trend
-Revenue Trend
-
-### Revenue by Region
-Revenue by Region
-
-### Top Products
-Top Products
-
-### Category Breakdown
-Category Breakdown
-
 ---
 
 ## 🔍 Key Insights
