@@ -11,8 +11,7 @@ This project analyzes sales data to uncover revenue trends, regional performance
 
 ---
 
-## 🛠 Tools Used
-- Google Sheets (data cleaning & visualization)  
+## 🛠 Tools Used 
 - Python (data processing)  
 - SQL (analysis concepts)  
 
