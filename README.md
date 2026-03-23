@@ -32,6 +32,15 @@ The dataset includes:
 
 ## 📊 Visualizations
 
+### Revenue by Region
+![Revenue by Region](revenue_by_region.png)
+
+### Top Products
+![Top Products](top_products.png)
+
+### Category Breakdown
+![Category Breakdown](category_breakdown.png)
+
 ### Revenue Trend
 Revenue Trend
 
